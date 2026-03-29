@@ -19,7 +19,7 @@ Explore the evolution of the Live-Tv-Server through its key iterations:
 | `index_v3.html`| Finalized layout with branded polish   | [View](https://sohag1192.github.io/Live-Tv-Server/index_v3.html) |
 
 🔗 **Latest Unified Interface:**  
-[Live-Tv-Server Web Interface](https://sohag1192.github.io/Live-Tv-Server)
+[Live-Tv-Server Web Interface](https://github.com/paribaby928-spec/Live-Tv-Server)
 
 ---
 
